@@ -8,7 +8,7 @@ export const projects = [
     description:
       "This project is a portfolio website developed using ReactJs. The website is designed to showcase the user's skills, projects, and services. It features a modern and clean design with smooth navigation and responsive layout.",
     previewClass: 'preview--portfolio',
-    previewLabel: 'RAHUL',
+    previewLabel: 'HARSHA',
     previewTitle: 'Portfolio Design',
     stack: ['React', 'JS', 'CSS', 'Figma'],
     features: [

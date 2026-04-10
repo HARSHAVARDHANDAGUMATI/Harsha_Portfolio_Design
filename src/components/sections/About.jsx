@@ -9,12 +9,12 @@ function About({ compact = false }) {
 
       <div className="about-strip__body">
         <p>
-          Hi there! I&apos;m Rahul, a third-year Computer Science student at SRM Institute with a
-          passion for crafting user-centric experiences. I specialize in Front End Development and
-          Graphic Design, with expertise in HTML, CSS, JavaScript, React, Node.js, Tailwind CSS,
-          Git, and C++. I thrive on collaboration and bring experience in quiz system
-          methodologies. Beyond coding, I enjoy photography, graphic design, and exploring music.
-          Let&apos;s connect and bring your digital visions to life.
+          Hi there! I&apos;m Harsha, a frontend developer focused on crafting clean, user-centric
+          digital experiences. I specialize in Front End Development and Graphic Design, with
+          expertise in HTML, CSS, JavaScript, React, Node.js, Tailwind CSS, Git, and C++. I enjoy
+          building modern interfaces, improving usability, and turning ideas into polished web
+          experiences. Beyond coding, I also enjoy photography, graphic design, and exploring
+          music. Let&apos;s connect and bring your digital visions to life.
         </p>
 
         {!compact && (

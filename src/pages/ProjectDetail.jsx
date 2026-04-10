@@ -43,7 +43,7 @@ function ProjectDetail() {
                 <div className="project-card__preview-inner">
                   <span className="project-card__preview-label">Hey There I&apos;m</span>
                   <strong>{project.previewLabel}</strong>
-                  <small>Currently Studying Computer Science</small>
+                  <small>Working as a Frontend Developer</small>
                 </div>
               </div>
             </div>

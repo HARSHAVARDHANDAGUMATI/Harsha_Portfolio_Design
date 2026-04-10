@@ -12,7 +12,7 @@ function Footer() {
           <br />
           one <span>pixel</span> at a time.
         </p>
-        <p className="signature-footer__meta">Portfolio v2.3 © 2024 Rahul</p>
+        <p className="signature-footer__meta">Portfolio v2.3 © 2024 Harsha</p>
       </div>
     </footer>
   )

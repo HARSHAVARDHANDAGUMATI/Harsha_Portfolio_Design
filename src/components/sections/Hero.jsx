@@ -10,9 +10,9 @@ function Hero() {
       </div>
       <div className="hero-panel__content">
         <p className="hero-panel__eyebrow">Hey There I&apos;m</p>
-        <h1>RAHUL</h1>
+        <h1>HARSHA</h1>
         <p className="hero-panel__subcopy">
-          Currently Studying Computer Science
+          Working as a Frontend Developer
         </p>
         <div className="hero-panel__socials">
           <a href="https://www.linkedin.com" target="_blank" rel="noreferrer" aria-label="LinkedIn">

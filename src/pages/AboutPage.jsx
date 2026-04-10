@@ -21,22 +21,26 @@ function AboutPage() {
 
           <div className="about-page__copy">
             <p>
-              I&apos;m a Computer Science student at <span>SRM Institute of Science and Technology</span>. My passion
-              lies in building user-friendly solutions that enhance overall user experiences. I am currently
-              focused on <span>React Native, Expo, Firebase, and React</span>, leveraging these technologies to create
-              responsive and functional applications. One of my ongoing projects is Rescue Paws, a
-              mobile app designed to facilitate the rescue and adoption of stray and pet dogs. The app
-              will soon be published on the <span>Play Store and App Store</span>, and it incorporates AI-driven
-              features to guide users through the adoption process. In addition to app development, I&apos;ve
-              led the design and development of platforms like the GitHub Community SRM website,
-              which serves as an all-in-one platform for the community. I&apos;ve also organized and managed
-              events such as hackathons and workshops, mentoring others in UI/UX and graphic design. I
-              thrive in <span>Agile Scrum environments</span> and believe collaboration and teamwork are essential to
-              delivering successful projects. I&apos;m always eager to work on impactful projects that
-              challenge me to grow while also contributing to meaningful outcomes. So, whether
-              you&apos;re <span>looking for a dedicated developer, a creative designer, or a collaborative team
-              member,</span> I&apos;m here to help bring ideas to life. Let&apos;s connect and create innovative solutions
-              together!
+              I&apos;m a <span>frontend developer</span> passionate about building clean, responsive, and
+              user-focused digital products. My work centers around creating modern interfaces with
+              strong visual hierarchy, intuitive interactions, and reliable performance across
+              devices.
+            </p>
+            <p>
+              I mainly work with <span>React, JavaScript, CSS, Tailwind CSS, Firebase, and modern UI workflows</span>
+              to turn ideas into polished web experiences. I enjoy translating design concepts into
+              production-ready components, building reusable systems, and refining the small details
+              that make products feel professional.
+            </p>
+            <p>
+              Alongside development, I also bring experience in <span>UI/UX thinking, visual design, and collaborative project execution</span>.
+              I value clarity, consistency, and teamwork, and I enjoy working on products that solve
+              real problems while still feeling engaging and memorable to use.
+            </p>
+            <p>
+              Whether you&apos;re looking for a developer to build interfaces, improve product quality,
+              or contribute to a collaborative team, I&apos;m always excited to work on meaningful
+              digital experiences and bring ideas to life.
             </p>
 
             <Button as="a" href="#" variant="resume" className="about-page__resume-button">
